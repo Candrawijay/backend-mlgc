@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submissionmlgc-candraw",
+  "private_key_id": "734820483151a8cec7b6372d8136187ea6a241b4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCRdAG7q0kINBSk\nDnFOX/bVrHVJJNhznEp4gBSGzYf2uhPfrBxTNu5JG/DmnCfROlaM2WGrUmt/7Ijq\n3fZa+6WRUEhADkQMhLeKdP5T8azbJtpK/sKwRfhhIhAfx2xF1v9mhmUIh1IodQD/\njAF1i4mUhZnYbuvA6iLpBP5W8rLqrC2O5kLF3MUVcdV68SjuIT1dWXgp36RFGYGa\nhGzBerLbjf02EI8/JjCJ+zswG5hvnAxIfsw8AwrYAJ9OuZYfDEEXhr0KT+EEjafX\nKRIDn6ytsIElNidORW9a2cVtx+vWOwX7ZOKi5GCpMUi2JEER0yXTFpkcDYE5aOyr\n1lgyS0dFAgMBAAECggEACkUyMCGmjP08bd8VMg8Fm03LlEgVPoiNG5gTmvcdQBcg\nex0ofNm2lpPx/R6Oky/214gr5NBzhbtaaZcVo5P8O1f7WgaH2Ihwe0bKhHvelDTY\nmg4GCjNOl/EzSUMoCoBlVURtEt6XNwMX+HNW0Qlyw/lxBP7EB8GgiGqRWOtXJcm6\nRgCrciwIcqqm6+Hci8K6M6rl5rgO6YDMTcfTh/f7coe7GcjPkvXFFeNiB+r4W7cF\npmfjcFhiulCKf02YSNAy6FIibNvVYhRbKAzGK3wzUzKX5Sp0oiODvn2d5Yv8aq9Y\niRfNUB7yf/NNmB4d2CdSzFi8YhjWusz+Fx6IJtV3UQKBgQDFJY9cwnU5g2WQD+Si\nOSKCS2C9OcnrSvuRuBtcy79gvPfLsSIHgoZxNnSDL3tpzfZg+R+J80QONalu9ilb\n85jj+socypWv/jeprPzTOx5FRE9eymvRPD8PvrwMvhN/p2cVIy39wTEetJU+l842\nXtbzozZ4sHQQSLKp0SyVmmUp6QKBgQC83+V+C57xZ/+Dw3bw48gogHh9xgPfyBg/\n5wzaFpBziG82VNWrypnvpAxhPeTnXf7h6pMFTpeYDHW8mC2OfBUjmsG6xqRak3Kb\nzvOckP9hotzpKmRx+ZCLlw/Xi/Ip0L0/LuJsZVK+IVH2LfPnVXR3sGKlFyOPjZBJ\n/APkNWR8/QKBgQCP0VupHo6nmyw/EOkIUsfS5yw2Pm8Hv9aPsg/7/QKqjo/yP1EE\ny3pKIqCShtPwFnkyuuoAF7/A4fKtaNQ5KRaS0YQZxsu17K0skW6KpajqfO+txdsr\nc1jJoqnKXesZh8SSTeyiHgo4TSJG3DVpwnvqllkJaCfzLSVw7pAovs4n6QKBgBsR\nOyJFKBIQhV2stW7wNc8YGixsJEH9uvvtcLoQYcMs2kM/BSAJeOYO7HdDF3rQzaYy\np78q9C6mGnlclarFvYHMu9a4gPU6DEKn9eGKJg8n9+CyYpKy4TQgAfUx6RJ1B6n2\nXhyKqMD2pXhSPZH5fSdp77kZB8+aygLQSv55aF1BAoGBAKZ4dtiOBfUDNQvOcNGe\n5eHhW0PEGj2Tw1CA20HFUMByTazMEFLyrXyedaecZM/pWjowyIwEJprP6GifVEGk\nDidT1u+EHfNhEwJFX6N1OjuZ2QzYHGZm/D/8Vz0Y7BvlhBrVRRJKEyBk9VRvohI+\nwgCwaBbCa3syBjAI17M3aFx+\n-----END PRIVATE KEY-----\n",
+  "client_email": "firestore-access@submissionmlgc-candraw.iam.gserviceaccount.com",
+  "client_id": "106716334943623573284",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firestore-access%40submissionmlgc-candraw.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
